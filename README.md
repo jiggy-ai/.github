@@ -1,1 +1,1 @@
-# .github
+# Jiggy AI
